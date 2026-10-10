@@ -1,0 +1,231 @@
+Product Requirements Document (PRD)
+Project: Bright & Minimalist Portfolio Website
+
+Owner: Gauransh Lodhi Rajput  
+TXT
+
+Email: gauranshrajput27@gmail.com  
+TXT
+
+WhatsApp: +91 94545 20069
+
+  
+TXT
+
+Deployment Platform: Vercel  
+TXT
+
+1. Product Summary
+A premium, conversion-optimized single-page portfolio website for Gauransh Lodhi Rajput—a video editor, motion graphics designer, and web developer. The site acts as a client acquisition tool, routing visitors to WhatsApp and Email. The design is heavily focused on a bright, minimalist aesthetic with massive breathing room, zero gradients, and a highly structured editorial layout.  
+TXT
++ 1
+
+2. Design System & Visual Identity
+The visual language relies entirely on flat colors, stark contrast, and generous whitespace to create a high-end feel. Strict rule: No gradients are to be used anywhere on the site.
+
+2.1 Color Palette
+Primary Background: #E8E4DC (Warm, sophisticated off-white/cream).  
+TXT
+
+Typography & Elements: #0A0A0F (Deep midnight slate for maximum contrast and readability).  
+TXT
+
+2.2 Background Texture
+Subtle Overlay: Implement a very low-opacity fine grain/noise layer or ultra-thin minimal grid lines over the #E8E4DC background. This adds physical depth and a premium "print magazine" feel without creating visual clutter.
+
+2.3 Typography
+Display / Headlines: Bold, high-impact fonts (e.g., Against, Streamster, or Highrise) used sparingly and with extensive surrounding whitespace.  
+TXT
+
+Body Font: Highly legible sans-serif (e.g., Inter or DM Sans) rendered in the dark #0A0A0F accent color.  
+TXT
+
+3. Site Metadata
+Page Title: Gauransh Lodhi Rajput — Video Editor & Web Developer  
+TXT
+
+Meta Description: Premium video editing, motion graphics, and web development. 2+ years of experience delivering fast, high-quality results.  
+TXT
+
+Viewport: width=device-width, initial-scale=1.0
+
+  
+TXT
+
+Copyright: © 2026 — Editor, Motion Graphics & Web Development  
+TXT
+
+4. Navigation & Layout Structure
+Framework Border: The entire site features a very thin, low-opacity solid border running along the extreme edges of the viewport, framing the content.
+
+Top Navigation: Sits cleanly within the top frame, featuring:
+
+Logo: GL. (Anchors to #hero)  
+TXT
+
+Links: About (#about), Skills (#skills), Pricing (#pricing)  
+TXT
+
+CTA: Connect (#contact)  
+TXT
+
+5. Section-by-Section Requirements
+5.1 Hero Section (#hero)
+Design Rule: This section must have massive breathing room. It utilizes an asymmetric editorial layout combined with vertical centering.
+
+Left Column (50% width): Kept almost entirely empty for visual breathing room, featuring only the main headline (Gauransh Lodhi Rajput) in large typography, anchored to the center-left.  
+TXT
+
+Right Column (50% width): Vertically centered alongside the headline, containing:
+
+Eyebrow: Video Editor & Web Developer.  
+TXT
+
+Primary CTA Button: Flat, solid #0A0A0F button with #E8E4DC text: ↗ Book on WhatsApp.  
+TXT
+
+Bottom Frame (Optional): A clean, slow-moving ticker text loop: Video Editing · Motion Graphics · Web Development.  
+TXT
+
+5.2 Introduction / About Section (#about)
+Heading: Creator Who Turns Views Into Attention  
+TXT
+
+Core Value Bullets:
+
+Pacing designed for higher audience watch time.  
+TXT
+
+Custom motion graphics to elevate production value.  
+TXT
+
+Fast turnaround times with consistent style.  
+TXT
+
+Clear communication from project brief to final delivery.  
+TXT
+
+5.3 Skills Section (#skills)
+A minimalist grid using flat solid borders and ample padding.
+
+Icon	Skill	Description
+🎬	Video Editing	
+Story-driven edits with clean pacing to maximize retention.  
+TXT
+
+✨	Motion Graphics	
+Custom transitions and visual effects for premium content.  
+TXT
+
+🌐	Web Development	
+Clean, responsive sites optimized for phone and desktop.  
+TXT
+
+🟣	After Effects	
+Advanced visual effects and motion workflows.  
+TXT
+
+🎞️	Premiere Pro	
+Fast editing cuts and efficient post-production assembly.  
+TXT
+
+5.4 Pricing Section (#pricing)
+A clean, flat-design three-tier pricing structure.
+
+Feature	STARTER	GROWTH	PREMIUM
+Price	
+₹800  
+TXT
+
+₹1,500  
+TXT
+
+₹3,000  
+TXT
+
+Best For	
+Testing a new style  
+TXT
+
+Creators wanting scale  
+TXT
+
+High-impact campaigns  
+TXT
+
+Deliverables	
+• Short-form edit
+
+
+• Basic motion polish
+
+
+• 1 revision  
+TXT
+
+• Advanced short-form edit
+
+
+• Motion graphics
+
+
+• 2 revisions  
+TXT
+
+• Premium storytelling edit
+
+
+• High-end motion
+
+
+• Priority support + 3 revs  
+TXT
+
+Action	Book Starter	Book Growth	Book Premium
+5.5 Contact Section (#contact)
+Heading: Let's Create Something Together
+
+Sub-copy: Message me directly to discuss your project.
+
+Frictionless Gateways:
+
+Email: gauranshrajput27@gmail.com  
+TXT
+
+Primary Action: Solid, flat button linking to Send Project Brief via WhatsApp
+
+  
+TXT
+
+6. Functional URL & Pre-Filled Message Matrix
+All conversion paths map directly to WhatsApp deep links using clean text encodings.
+
+Hero Book: [https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20book%20an%20edit](https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20book%20an%20edit).
+
+  
+TXT
+
+About Discuss: [https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20discuss%20my%20project](https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20discuss%20my%20project).
+
+  
+TXT
+
+Starter Plan: [https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20book%20the%20Starter%20plan%20(Rs%20800](https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20book%20the%20Starter%20plan%20(Rs%20800)).
+
+  
+TXT
+
+Growth Plan: [https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20book%20the%20Growth%20plan%20(Rs%201.5k](https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20book%20the%20Growth%20plan%20(Rs%201.5k)).
+
+  
+TXT
+
+Premium Plan: [https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20book%20the%20Premium%20plan%20(Rs%203k](https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20book%20the%20Premium%20plan%20(Rs%203k)).
+
+  
+TXT
+
+Project Brief: [https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20discuss%20my%20requirements](https://wa.me/919454520069?text=Hi%20Gauransh,%20I%20want%20to%20discuss%20my%20requirements).
+
+  
+TXT

@@ -1,0 +1,6 @@
+{
+  "buildCommand": "echo 'No build step required'",
+  "outputDirectory": ".",
+  "devCommand": "npx serve . -p 8000",
+  "installCommand": "echo 'No install required'"
+}
